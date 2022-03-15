@@ -198,7 +198,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/CSS/img-the-band/sileder 1/W3.CSS Template_files/chicago.jpg') top center / cover no-repeat
+    background: url('/assets/CSS/Image/Ảnh\ team.jpg') top center / cover no-repeat
 
 }
 
@@ -310,6 +310,7 @@ html {
 .place-img {
     width: 100%;
     display: block;
+    height: 40%;
 }
 .place-img:hover {
     opacity: 0.6;
